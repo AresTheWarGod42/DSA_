@@ -1,3 +1,4 @@
+```
 Repository Structure:
 DSA_ :
   |---README.md
@@ -13,5 +14,5 @@ DSA_ :
   |---4_BinarySearch
         |--- binary_search.cpp
         |--- README_binary_search.md
-
+```
 
