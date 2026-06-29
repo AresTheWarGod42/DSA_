@@ -13,4 +13,4 @@ jobs:
 
       - name: Compile check
         run: |
-          find . -name "*.cpp" exec g++ -std=c++17 -c {} \;
+          find . -name "*.cpp" -exec g++ -std=c++17 -c {} \;
